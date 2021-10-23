@@ -32,31 +32,32 @@ doc目录为项目文档目录，里面包含sql文件。
 
 ## 项目运行效果
 ### 内部管理平台
-![权限管理](.\readme-picture\资源管理.jpg)
+![权限管理](readme-picture/资源管理.jpg)
 
-![用户管理](.\readme-picture\用户管理.jpg)
+![用户管理](readme-picture/用户管理.jpg)
 
-![角色管理](.\readme-picture\角色管理.jpg)
+![角色管理](readme-picture/角色管理.jpg)
 
-![分类管理](.\readme-picture\分类管理.jpg)
+![分类管理](readme-picture/分类管理.jpg)
 
-![课程管理](.\readme-picture\课程管理.jpg)
+![课程管理](readme-picture/课程管理.jpg)
 
-![课程大章](.\readme-picture\课程大章.jpg)
+![课程大章](readme-picture/课程大章.jpg)
 
-![小节视频](.\readme-picture\小节视频.jpg)
+![小节视频](readme-picture/小节视频.jpg)
 
-![讲师管理](.\readme-picture\讲师管理.jpg)
 
-![会员管理](.\readme-picture\会员管理.jpg)
+![讲师管理](readme-picture/讲师管理.jpg)
 
-![邮件管理](.\readme-picture\邮件管理.jpg)
+![会员管理](readme-picture/会员管理.jpg)
 
-![文件管理](.\readme-picture\文件管理.jpg)
+![邮件管理](readme-picture/邮件管理.jpg)
+
+![文件管理](readme-picture/文件管理.jpg)
 
 ### 外部平台
-![主页](.\readme-picture\主页.jpg)
+![主页](readme-picture/主页.jpg)
 
-![全部课程](.\readme-picture\全部课程.jpg)
+![全部课程](readme-picture/全部课程.jpg)
 
-![课程详情](.\readme-picture\课程详情.jpg)
+![课程详情](readme-picture/课程详情.jpg)
